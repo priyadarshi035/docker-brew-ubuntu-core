@@ -1,1 +1,1 @@
-CONTRIBUTING.md
+Use this image for Jenkins Slave
